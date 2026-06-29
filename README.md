@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -73,3 +74,7 @@ export default defineConfig([
 ])
 
 ```
+=======
+# EcoTrack-Carbon-Footprint-Awareness-Platform
+EcoTrack is a modern carbon footprint tracking platform that helps users monitor emissions, visualize sustainability data, and receive eco-friendly recommendations.
+>>>>>>> 29753e3056374ab22b94481dcbcfa627ed1b4660
